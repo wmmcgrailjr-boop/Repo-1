@@ -71,4 +71,10 @@ This repository was created as part of a technical writing portfolio to demonstr
 - Developer experience (DX) best practices
 - Docs-as-Code workflows using GitHub
 
----
+This update improves the Docs-as-Code workflow section by adding a note on continuous improvement.
+
+Changes:
+- Added iterative improvement concept to README
+
+Reason:
+To better reflect real-world documentation workflows and ongoing updates.---
