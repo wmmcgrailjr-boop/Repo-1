@@ -70,5 +70,6 @@ This repository was created as part of a technical writing portfolio to demonstr
 - OpenAPI specification usage
 - Developer experience (DX) best practices
 - Docs-as-Code workflows using GitHub
-
----
+- feature/add-auth-doc
+- feature/update-api-guide
+- fix/error-handling-section---
