@@ -25,8 +25,8 @@ See the [Getting Started Guide](guides/getting-started.md) for details.
 - Users
 - Tasks
 - Error Handling
-
-### Guides
+- Continuous improvement through iterative updates
+  ### Guides
 - Getting Started
 - Integration Guide
 - Plugin Guide
