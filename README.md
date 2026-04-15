@@ -65,7 +65,7 @@ This documentation is intended for:
 ## 📌 About This Project
 
 This repository was created as part of a technical writing portfolio to demonstrate:
-
+- Files to document
 - API documentation
 - OpenAPI specification usage
 - Developer experience (DX) best practices
