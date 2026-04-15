@@ -72,4 +72,5 @@ This repository was created as part of a technical writing portfolio to demonstr
 - Docs-as-Code workflows using GitHub
 - feature/add-auth-doc
 - feature/update-api-guide
-- fix/error-handling-section---
+- fix/error-handling-section
+- - Completed first Docs-as-Code workflow test---
