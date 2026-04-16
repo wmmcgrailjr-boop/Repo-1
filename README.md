@@ -101,3 +101,8 @@ This repository was created as part of a technical writing portfolio to demonstr
 Bash
 curl -X GET https://api.taskflow.com/users \
   -H "Authorization: Bearer YOUR_API_KEY"
+Json
+{
+  "id": 1,
+  "name": "John Doe"
+}
