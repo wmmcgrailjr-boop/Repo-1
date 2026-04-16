@@ -16,7 +16,31 @@ To begin using the TaskFlow API:
 
 See the [Getting Started Guide](guides/getting-started.md) for details.
 
+# Getting Started with TaskFlow API
+
+This guide helps you set up authentication and make your first successful API request.
+
 ---
+
+## 🔑 Step 1: Obtain an API Key
+
+To use the TaskFlow API, you must have an API key.
+
+You can obtain an API key by:
+- Requesting access from your administrator
+- Generating a key from your account dashboard
+
+---
+
+## 🔐 Step 2: Authenticate Your Requests
+
+All requests to the TaskFlow API require a Bearer token.
+
+### Example Header
+
+```http
+Authorization: Bearer YOUR_API_KEY
+📡---
 
 ## 📚 Documentation Structure
 
