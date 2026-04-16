@@ -102,7 +102,9 @@ Bash
 curl -X GET https://api.taskflow.com/users \
   -H "Authorization: Bearer YOUR_API_KEY"
 Json
-{
+### Commit message:
+```plaintext
+Improve getting started guide with authentication and API example{
   "id": 1,
   "name": "John Doe"
 }
