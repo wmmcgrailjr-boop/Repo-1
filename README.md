@@ -4,6 +4,10 @@ This repository contains developer and API documentation for the TaskFlow platfo
 
 This documentation is built using a Docs-as-Code approach and managed through Git-based workflows.
 
+# Getting Started with TaskFlow API
+
+## Step 1: Obtain an API Key
+
 ---
 
 ## 🚀 Getting Started
