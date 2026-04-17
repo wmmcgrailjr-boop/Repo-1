@@ -13,3 +13,13 @@ GET /tasks
 
 curl -X GET "https://api.taskflow.com/tasks?page=1&limit=10" \
   -H "Authorization: Bearer YOUR_API_KEY"
+
+{
+  "data": [
+    {
+      "id": 101,
+      "title": "Complete documentation",
+      "status": "in_progress"
+    }
+  ]
+}
